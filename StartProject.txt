@@ -1,0 +1,5 @@
+Step 1 : Create Microservices
+Step2 : Communicate Microsevices using OpenFiegn Client
+Step3 : Create ServiceRegistry by which you 
+Step3: Load Balancing
+Step4: Api GateWay by which we can call microservices by only 1 uri
